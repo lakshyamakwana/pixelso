@@ -7,7 +7,7 @@ from io import BytesIO
 import streamlit.components.v1 as com
 
 # Adding a header and expander in side bar
-st.sidebar.markdown('<h1 class="font" style="text-align: center;">Picaso</h1>', unsafe_allow_html=True)
+st.sidebar.markdown('<h1 class="font" style="text-align: center;">Pixelso</h1>', unsafe_allow_html=True)
 with st.sidebar.expander("About the App"):
      st.write("""
         Use this simple app to convert your photos to a pencil sketch, a grayscale image, an image with blurring effect and many more..  \n  \n Hope you enjoy!
@@ -19,7 +19,7 @@ with col1:               # To display the header text using css style
    <style>
    @import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
    .big-font {
-      font-size: 100px !important;
+      font-size: 80px !important;
       font-family: 'Croissant One', cursive;
       color: #FF9633;
       text-align: center;
