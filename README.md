@@ -1,2 +1,2 @@
 # pixelso
-An Image Processing Tool
+Image Manipulation and Filter Application Using Streamlit
