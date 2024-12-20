@@ -98,7 +98,7 @@ if uploaded_file:
                   image_copy = cv2.drawContours(image_copy, contours, -1, (0, 255, 0), thickness=2, lineType=cv2.LINE_AA)
                   converted_img = Image.fromarray(image_copy)
                   st.image(image_copy, width=300)
-      elif filter  == 'Viginette Effect':
+      elif filter  == 'Vignette Effect':
                   img = np.array(image.convert('RGB')) 
                   rows, cols = img.shape[:2]
                   # radius = 130
