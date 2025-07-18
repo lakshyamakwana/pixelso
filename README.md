@@ -15,18 +15,6 @@ The project includes direct working with the filters of PIL and OpenCV library.<
 <li>After applying filters you can also <b>rotate</b> and <b>resize</b> your image.</ul>
 <div align = "center">
 <b><h2>Graysacle Image</h2></b><br>
-</div>
-<center><img src="grayscale_image.jpg",align="center",height="200"></center>
-<div align = "center">
-<b><h2>Pencil sketch</h2></b><br>
-</div>
-<img src="pencil_sketch.jpg",align="center",height="200">
-<div align = "center">
-<b><h2>Viginette Effect</h2></b><br>
-</div>
-<center><img src="Viginette_effect.jpg",align="center",height="200"></center>
-<br>
-<div align = "center">
-  <h2>Check out the <b>Deployed</b> site <a href = "https://picaso.streamlit.app"><u>here.</u></a></h2>
+  <h2>Check out the <b>Deployed</b> site <a href = "https://pixelso.streamlit.app"><u>here.</u></a></h2>
 </div>
 </div>
