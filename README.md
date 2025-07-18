@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1><b><u>PICASO</u></b></h1><hr>
+  <h1><b><u>PIXELSO</u></b></h1><hr>
 </div>
 An Image Editing App made using Streamlit , OpenCV and PIL.<br>
 <h2><b>Logic of the project</b></h2>
