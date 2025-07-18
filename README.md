@@ -14,9 +14,6 @@ The project includes direct working with the filters of PIL and OpenCV library.<
 <li>You can convert your image into <b>grayscale</b>, <b>black and white</b> and many other filters</i>.
 <li>After applying filters you can also <b>rotate</b> and <b>resize</b> your image.</ul>
 <div align = "center">
-  <h3>Check out the <b>demo</b> video <a href = "https://youtu.be/otUG0Tsz4ss"><u>here.</u></a></h3>
-</div>
-<div align = "center">
 <b><h2>Graysacle Image</h2></b><br>
 </div>
 <center><img src="grayscale_image.jpg",align="center",height="200"></center>
