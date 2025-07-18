@@ -8,13 +8,10 @@ The project includes direct working with the filters of PIL and OpenCV library.<
 <b>OpenCV</b> (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
 <br>
 <br>
-<center> <img src="app_preview.jpg",align = "center",height="350"> </center>
 <h2><b>Working of the project</b></h2>
 <ul><li>You can manipulate your image in various ways using this app.
 <li>You can convert your image into <b>grayscale</b>, <b>black and white</b> and many other filters</i>.
 <li>After applying filters you can also <b>rotate</b> and <b>resize</b> your image.</ul>
-<div align = "center">
-<b><h2>Graysacle Image</h2></b><br>
-  <h2>Check out the <b>Deployed</b> site <a href = "https://pixelso.streamlit.app"><u>here.</u></a></h2>
+<h2>Check out the <b>Deployed</b> site <a href = "https://pixelso.streamlit.app"><u>here.</u></a></h2>
 </div>
 </div>
